@@ -50,3 +50,10 @@ Once finished, you can kill the environment by running the commands:
 ```az container delete --name daskscheduler --resource-group {RG_NAME} ```
 
 ```az container delete --name daskworker --resource-group {RG_NAME} ```
+
+
+## Contributing
+
+Users are encouraged to submit their own environments as .bicep files and example projects for others to easily provision cloud resources. 
+
+To submit a contribution, fork this repository and raise a pull request.
