@@ -6,7 +6,7 @@ This repository contains the tools you need to quickly provision, run and kill d
 
 ### Prerequisites
 
-To use the DDA CLI, and to use the az CLI directly you will need to download it first. You can do this by following these instructions: [Install the az CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-windows?tabs=azure-cli)
+To use the DDA CLI, and to use the az CLI directly you will need to download it first. You can do this by following these instructions: [Install the az CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-windows?tabs=azure-cli).
 
 You will only be able to provision Azure resource if given the correct permissions from the IT Team. 
 
