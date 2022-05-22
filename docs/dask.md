@@ -1,8 +1,7 @@
-# Distributed Data Analytics
+# Processing large datasets with dask
 
-This repository contains the tools you need to quickly provision, run and kill distributed data analytics environments. 
+## Creating a Dask cluster in Azure
 
-## Getting started: Dask Cluster
 
 ### Prerequisites
 
@@ -50,10 +49,3 @@ Once finished, you can kill the environment by running the commands:
 ```az container delete --name daskscheduler --resource-group {RG_NAME} ```
 
 ```az container delete --name daskworker --resource-group {RG_NAME} ```
-
-
-## Contributing
-
-Users are encouraged to submit their own environments as .bicep files and example projects for others to easily provision cloud resources. 
-
-To submit a contribution, fork this repository and raise a pull request.
